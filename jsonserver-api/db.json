@@ -1,0 +1,28 @@
+{
+  "jobs": [
+    {
+      "enterprise": "Google edit",
+      "salary": 200,
+      "address": "av san Washingon #2323",
+      "requiredLevel": "Elementary School",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem",
+      "id": 1
+    },
+    {
+      "enterprise": "Oliver Wyman",
+      "address": "",
+      "requiredLevel": "Elementary School",
+      "description": "Oliver Wyman Group (OWG) delivers advisory services to clients through three operating units, each of which is a leader in its field. Oliver Wyman (www.oliverwyman.com) is the largest part. It is a top-tier global management consulting firm that combines deep industry knowledge with specialized expertise in strategy, operations, risk management, organizational transformation, and leadership development. Lippincott (www.lippincott.com) helps clients create, develop, and manage their corporate branding, identity, and image. NERA Economic Consulting (www.nera.com) advises corporations, law firms, and government entities on the economics of competition, regulation, public policy, finance, and litigation.",
+      "salary": "",
+      "id": 2
+    },
+    {
+      "enterprise": "Dell",
+      "address": "Av san ignacio",
+      "requiredLevel": "Bachelor Degree",
+      "description": "It takes high-caliber people with passion, energy and commitment to create and deliver technologies that drive human progress. So we need exceptional people to find that talent. The Talent Acquisition (TA) team within Human Resources is responsible for promoting a positive image of Dell Technologies and recruiting new people to our global team. We take into account complex factors to build talent acquisition strategies that achieve business objectives while ensuring a high-quality experience for candidates and business partners. Alongside forecasting hiring needs, undertaking interviews and conferring job offers, we advise business leaders on the talent strategy and deliver all TA metrics.\n",
+      "salary": "5000",
+      "id": 3
+    }
+  ]
+}

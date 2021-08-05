@@ -1,0 +1,10 @@
+.logo{
+    object-fit: contain;
+    width: 3rem !important;
+    height: 3rem !important;
+    color: rgb(131, 86, 60);
+}
+.icons{
+    width: 3rem !important;
+    height: 3rem !important;
+}
